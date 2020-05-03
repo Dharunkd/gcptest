@@ -1,0 +1,12 @@
+{
+  "require": {
+    "google/cloud-translate": "^1.4",
+    "google/cloud-firestore": "^1.7",
+    "symfony/http-foundation": "^5.0.0"
+  },
+  "autoload": {
+    "files": [
+      "functions.php"
+    ]
+  }
+}
